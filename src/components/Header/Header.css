@@ -1,0 +1,41 @@
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  height: 80px;
+}
+
+.navbar {
+  background-color: black;
+  padding: 10px;
+  margin: 10px 0 0 0;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-size: large;
+  font-weight: 600;
+  margin: 0 10px 0 10px;
+}
+
+.search input {
+  margin: 30px 0 20px 70px;
+  width: 1100px;
+  height: 20px;
+  font-size: 15px;
+}
+
+.search-icon {
+  display: flex;
+}
+
+.cart-icon {
+  color: white;
+  margin: 30px 0 20px 20px;
+}
+
+.product-number {
+  color: orange;
+}
